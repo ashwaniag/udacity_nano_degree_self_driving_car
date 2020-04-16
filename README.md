@@ -1,4 +1,4 @@
-# udacity_nano_degree_self_driving_car
+# Udacity Nano Degree Self Driving Car
 
 This repository is for the Udacity Nanodegree Self Driving Car Engineer program.
 
