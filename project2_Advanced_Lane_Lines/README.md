@@ -44,7 +44,9 @@ The code is in the function `calibrate_camera()` in [code.ipynb](./code.ipynb).
 
 I got the following result on applying the undistortion on one of the chessboard image:
 
+
 ![alt text][image1]
+
 
 ### Pipeline (single images)
 
@@ -53,6 +55,7 @@ I got the following result on applying the undistortion on one of the chessboard
 The obtained camera matrix and distortion coefficients from `calibrate_camera()` function, can be applied to the [test images](./test_images).
 
 I got the following result on applying the undistortion on straight_line1.jpg image:
+
 ![alt text][image2]
 
 #### 2. Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
@@ -66,6 +69,7 @@ In order to get good binary image, I use a combination of color and gradient thr
 
 The code is implemented in the `binarize()` function [here](./code.ipynb).
 Here are the results:
+
 ![alt text][image3]
 
 #### 3. Describe how (and identify where in your code) you performed a perspective transform and provide an example of a transformed image.
