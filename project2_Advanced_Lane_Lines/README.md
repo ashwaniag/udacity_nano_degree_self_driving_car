@@ -1,6 +1,9 @@
 # **Advanced Lane Finding Project**
 ---
+
 ![alt text][giff1]
+
+
 **Overview**
 ---
 
